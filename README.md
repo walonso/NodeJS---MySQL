@@ -1,12 +1,12 @@
-Compile - Genrate dist folder
-´´´tsc´´´
-´´´npm run html´´´
+Compilar - Genrate dist folder
+```tsc```
+```npm run html```
 
 o (dado que se creo un comando conteniendo los dos):
-´´´´npm run build´´´
+```npm run build```
 
 Correrlo:
-´´´nodemon dist/index´´´
+```nodemon dist/index```
 
 Documentación TypeScript:
 http://www.typescriptlang.org/docs/home.html
